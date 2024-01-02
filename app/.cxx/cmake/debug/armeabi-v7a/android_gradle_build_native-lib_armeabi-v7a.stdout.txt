@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\User\Desktop\TexturedCube\app\.cxx\cmake\debug\armeabi-v7a'
+ninja: no work to do.

@@ -1,0 +1,5 @@
+# ninja log v5
+3	168	721155387	CMakeFiles/native-lib.dir/Texture.cpp.o	9ee5efe328ae5f61
+4	173	721155387	CMakeFiles/native-lib.dir/native-lib.cpp.o	10ffde84adeab638
+1	180	721155387	CMakeFiles/native-lib.dir/Matrix.cpp.o	9f626480a806a474
+180	728	721155387	C:/Users/User/Desktop/TexturedCube/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	4da5716502b27bc3
